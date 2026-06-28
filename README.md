@@ -133,8 +133,6 @@ Key presentation figures:
 
 ## Interpretation
 
-Use cautious language when reporting results:
-
 - The plots measure the existing model; they do not change its rules.
 - Morris ranks influential parameters but is still a screening method.
 - Sobol estimates variance contributions but depends on sample size and noise.
