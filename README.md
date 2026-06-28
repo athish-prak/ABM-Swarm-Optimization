@@ -104,7 +104,7 @@ Useful options:
 The main output folder contains:
 
 - `presentation_plots/`: figures for the final presentation.
-- `supporting_plots/`: appendix and diagnostic figures.
+- `misc_plots/`: appendix and diagnostic figures.
 - `presentation_plots/split_panels/`: single-panel presentation figures.
 - `supporting_plots/split_panels/`: single-panel supporting figures.
 - `data/`: CSV files behind the plots and sensitivity rankings.
